@@ -5,7 +5,7 @@
 GoScanner is a lightweight IP/PORT scanner written in Go. It performs a stealth SYN scan to determine open ports. The scanner can target a single IP address or multiple IP addresses within a CIDR range.
 ## Purpose
 
-This project is designed to practice Go's parallelization techniques using channels, contexts, and timeouts.  It was inspired by the [synscan example](https://github.com/google/gopacket/blob/master/examples/synscan/main.go) from the `gopacket` GitHub repository.
+This small project was designed to practice Go's parallelization techniques using channels, contexts, and timeouts.  It was inspired by the [synscan example](https://github.com/google/gopacket/blob/master/examples/synscan/main.go) from the `gopacket` GitHub repository.
 
 
 ## Usage
